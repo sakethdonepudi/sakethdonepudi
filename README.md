@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Final Year Undergraduate @SRMIST 🎓</strong><br>
-  Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+  <strong>Computer Science Undergraduate @SRMIST 🎓</strong><br>
+  Passionate about Full Stack Development 💻 | Exploring the realms of technology and innovation! ✨<br>
+  Currently learning Express and Node.js.
 </p>
 
 ---
