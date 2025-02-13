@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethdonepudi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🎮 Fun & Interactive
-🕹️ **Play a GitHub Snake Game!**  
-⚡ **Test Your Dev Knowledge**  
-👀 **Cool Easter Egg! Try clicking here for a surprise!**  
-
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/saketh-donepudi-b8a634214/">
